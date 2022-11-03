@@ -1,0 +1,85 @@
+body{
+    background-color: gray;
+    margin: 30px;
+    
+}
+
+.container{
+    background-color: white;
+    margin:auto;
+    border: 50px solid white;
+    padding:20px;
+    width: 75%;
+    background-image: url(imagens/fundo-f1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment:fixed;
+    background-size: auto;
+  
+}
+
+
+h4{
+    border-left: 10px solid gray;
+    border-bottom: 1px solid black;
+    padding: 0%;
+    background-image:url(imagens/bandeira1.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;
+    
+
+}
+
+.img1{
+    float:right;
+    margin-top:-40px;
+    
+}
+
+
+a.vis:link,a.vis:visited, a.vis:active{
+    text-decoration: none;
+    color:black;
+    
+}
+a.vis:hover{
+    text-decoration: underline;
+    color:yellow;
+}
+
+.p{
+    margin-bottom: 0;
+    text-indent: 10%;
+    margin-top: 0;
+    line-height: 1.5em;
+}
+
+
+ul{
+    list-style: none;
+}
+
+.bequip{
+    border-bottom:1px;
+    border-bottom-style: dotted;
+}
+
+.imgb{
+    width: 50px;
+}
+
+.img_e{
+    width: 100%;
+}
+.p2{
+    text-indent: 3.5em;
+}
+
+.fonte_negrito{
+    font-weight: bold;
+}
+
+.img_p{
+    width: 100px;
+}
