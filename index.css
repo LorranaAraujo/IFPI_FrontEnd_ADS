@@ -31,6 +31,12 @@ h4{
 
 }
 
+.img_h4{
+    background-image:url(imagens/bandeira1.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
 .img1{
     float:right;
     margin-top:-40px;
